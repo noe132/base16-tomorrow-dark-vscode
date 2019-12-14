@@ -61,7 +61,7 @@
       "name": "Comments",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "foreground": "#969896",
+        "foreground": "#666",
         "fontStyle": "italic"
       }
     },
